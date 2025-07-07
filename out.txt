@@ -1,3 +1,6 @@
 out file like manage in django
 
 written on  my pc
+
+written after updating in github
+written 2 moire li9ones
