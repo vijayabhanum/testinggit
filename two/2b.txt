@@ -1,2 +1,7 @@
 this is 2b 
 whitten in my pc
+
+settings
+data base sqlite
+root
+root
